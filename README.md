@@ -1,6 +1,6 @@
 🛠️ CONDOMAX
 Sistema de Gestão de Tarefas de Manutenção em Condomínios;
-![Tela de Login](/telaDeLogin.png)
+![Tela de Login](public/telaDeLogin.png)
 Sistema web desenvolvido como projeto acadêmico em dupla, com foco na gestão de tarefas de manutenção em condomínios. A aplicação permite o controle completo de tarefas, prestadores de serviço, condomínios e usuários, com funcionalidades de cadastro, edição, exclusão e visualização, além de alertas automáticos e autenticação com níveis de acesso.
 
 🚀 Funcionalidades
@@ -22,4 +22,4 @@ Rode as migrations com php artisan migrate
 Inicie o servidor local com php artisan serve
 Acesse no navegador: http://localhost:8000
 
-![Pagina Inicial](/paginaInicial.png)
+![Pagina Inicial](public/paginaInicial.png)
